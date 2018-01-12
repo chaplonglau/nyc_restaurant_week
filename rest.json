@@ -1,0 +1,4999 @@
+{
+  "Cesca": {
+    "name": "Cesca",
+    "rating": 3.5,
+    "review_count": 219,
+    "categories": [
+      "Italian",
+      "Seafood",
+      "Bars"
+    ],
+    "address": [
+      "164 W 75th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/cesca-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tarallucci E Vino - Nomad": {
+    "name": "Tarallucci E Vino - Nomad",
+    "rating": 4.0,
+    "review_count": 51,
+    "categories": [
+      "Italian",
+      "Wine Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "44 E 28th St",
+      "Flatiron",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/tarallucci-e-vino-nomad-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tarallucci E Vino -Union Square": {
+    "name": "Tarallucci E Vino -Union Square",
+    "rating": 3.5,
+    "review_count": 310,
+    "categories": [
+      "Italian",
+      "Bars"
+    ],
+    "address": [
+      "15 E 18th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/tarallucci-e-vino-union-square-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tarallucci E Vino - Upper West Side": {
+    "name": "Tarallucci E Vino - Upper West Side",
+    "rating": 3.5,
+    "review_count": 93,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "475 Columbus Ave",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/tarallucci-e-vino-upper-west-side-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Darbar Fine Indian Cuisine": {
+    "name": "Darbar Fine Indian Cuisine",
+    "rating": 4.0,
+    "review_count": 400,
+    "categories": [
+      "Indian",
+      "Buffets",
+      "Desserts"
+    ],
+    "address": [
+      "152 E 46th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/darbar-fine-indian-cuisine-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Darbar Grill": {
+    "name": "Darbar Grill",
+    "rating": 4.0,
+    "review_count": 449,
+    "categories": [
+      "Indian",
+      "Buffets",
+      "Bars"
+    ],
+    "address": [
+      "157 E 55th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/darbar-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "2West": {
+    "name": "2West",
+    "rating": 3.5,
+    "review_count": 63,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "The Ritz-Carlton New York Battery Park",
+      "Two West Street",
+      "Battery Park",
+      "New York, NY 10004"
+    ],
+    "url": "https://www.yelp.com/biz/2west-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "ABC Cocina": {
+    "name": "ABC Cocina",
+    "rating": 4.0,
+    "review_count": 735,
+    "categories": [
+      "Tapas/Small Plates",
+      "Cocktail Bars",
+      "Spanish"
+    ],
+    "address": [
+      "38 E 19th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/abc-cocina-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "ABC Kitchen": {
+    "name": "ABC Kitchen",
+    "rating": 4.0,
+    "review_count": 2586,
+    "categories": [
+      "American (New)",
+      "French"
+    ],
+    "address": [
+      "35 E 18th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/abc-kitchen-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ai Fiori": {
+    "name": "Ai Fiori",
+    "rating": 4.0,
+    "review_count": 1017,
+    "categories": [
+      "Italian",
+      "French",
+      "Seafood"
+    ],
+    "address": [
+      "400 5th Ave",
+      "Ste 2",
+      "Midtown West",
+      "New York, NY 10018"
+    ],
+    "url": "https://www.yelp.com/biz/ai-fiori-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Almond": {
+    "name": "Almond",
+    "rating": 3.5,
+    "review_count": 867,
+    "categories": [
+      "American (New)",
+      "French"
+    ],
+    "address": [
+      "12 E 22nd St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/almond-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Altesi Downtown": {
+    "name": "Altesi Downtown",
+    "rating": 4.5,
+    "review_count": 11,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "200 Spring St",
+      "South Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/altesi-downtown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Altesi Ristorante": {
+    "name": "Altesi Ristorante",
+    "rating": 3.5,
+    "review_count": 29,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "26 E 64th St",
+      "Upper East Side",
+      "New York, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/altesi-ristorante-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ortzi": {
+    "name": "Ortzi",
+    "rating": 4.0,
+    "review_count": 26,
+    "categories": [
+      "Basque",
+      "Wine Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "120 W 41st St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/ortzi-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "American Cut Steakhouse": {
+    "name": "American Cut Steakhouse",
+    "rating": 4.0,
+    "review_count": 440,
+    "categories": [
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "363 Greenwich St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/american-cut-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "American Cut Steakhouse Midtown": {
+    "name": "American Cut Steakhouse Midtown",
+    "rating": 3.5,
+    "review_count": 137,
+    "categories": [
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "109 E 56th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/american-cut-steakhouse-midtown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Amma": {
+    "name": "Amma",
+    "rating": 4.0,
+    "review_count": 439,
+    "categories": [
+      "Indian"
+    ],
+    "address": [
+      "246 E 51st St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/amma-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ammos Estiatorio": {
+    "name": "Ammos Estiatorio",
+    "rating": 3.0,
+    "review_count": 194,
+    "categories": [
+      "Greek",
+      "Seafood"
+    ],
+    "address": [
+      "52 Vanderbilt Ave",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/ammos-estiatorio-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Anassa Taverna": {
+    "name": "Anassa Taverna",
+    "rating": 3.5,
+    "review_count": 228,
+    "categories": [
+      "Greek",
+      "Seafood",
+      "Mediterranean"
+    ],
+    "address": [
+      "200 E 60th St",
+      "Upper East Side",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/anassa-taverna-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Angus Club Steakhouse": {
+    "name": "Angus Club Steakhouse",
+    "rating": 4.0,
+    "review_count": 144,
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "Salad"
+    ],
+    "address": [
+      "135 E 55th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/angus-club-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Antonucci Cafe": {
+    "name": "Antonucci Cafe",
+    "rating": 4.0,
+    "review_count": 104,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "170 E 81st St",
+      "Upper East Side",
+      "New York, NY 10028"
+    ],
+    "url": "https://www.yelp.com/biz/antonucci-cafe-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Aretsky's Patroon Townhouse": {
+    "name": "Aretsky's Patroon Townhouse",
+    "rating": 4.0,
+    "review_count": 177,
+    "categories": [
+      "American (Traditional)",
+      "Bars",
+      "Steakhouses"
+    ],
+    "address": [
+      "160 E 46th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/aretskys-patroon-townhouse-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Armani Ristorante": {
+    "name": "Armani Ristorante",
+    "rating": 4.0,
+    "review_count": 168,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "717 5th Ave",
+      "Giorgio Armani",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/armani-ristorante-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Asellina": {
+    "name": "Asellina",
+    "rating": 3.5,
+    "review_count": 330,
+    "categories": [
+      "Italian",
+      "Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "420 Park Ave S",
+      "Flatiron",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/asellina-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Astor Court": {
+    "name": "Astor Court",
+    "rating": 3.5,
+    "review_count": 39,
+    "categories": [
+      "Tea Rooms",
+      "Desserts",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "2 E 55th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/astor-court-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Atlantic Grill": {
+    "name": "Atlantic Grill",
+    "rating": 3.5,
+    "review_count": 479,
+    "categories": [
+      "American (New)",
+      "Seafood",
+      "Sushi Bars"
+    ],
+    "address": [
+      "49 W 64th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/atlantic-grill-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Atrio Wine Bar & Restaurant": {
+    "name": "Atrio Wine Bar & Restaurant",
+    "rating": 3.5,
+    "review_count": 70,
+    "categories": [
+      "Wine Bars",
+      "American (New)"
+    ],
+    "address": [
+      "102 N End Ave",
+      "Conrad",
+      "Battery Park",
+      "New York, NY 10282"
+    ],
+    "url": "https://www.yelp.com/biz/atrio-wine-bar-and-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Aureole": {
+    "name": "Aureole",
+    "rating": 4.0,
+    "review_count": 739,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "135 W 42nd St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/aureole-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bagatelle": {
+    "name": "Bagatelle",
+    "rating": 3.0,
+    "review_count": 440,
+    "categories": [
+      "French",
+      "Lounges",
+      "Mediterranean"
+    ],
+    "address": [
+      "1 Little W 12th St",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/bagatelle-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Baita At La Birreria": {
+    "name": "Baita At La Birreria",
+    "rating": 3.0,
+    "review_count": 127,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "200 5th Ave",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/baita-at-la-birreria-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bann Restaurant": {
+    "name": "Bann Restaurant",
+    "rating": 3.5,
+    "review_count": 535,
+    "categories": [
+      "Korean",
+      "Barbeque"
+    ],
+    "address": [
+      "350 W 50th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/bann-restaurant-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bar Boulud": {
+    "name": "Bar Boulud",
+    "rating": 3.5,
+    "review_count": 745,
+    "categories": [
+      "French",
+      "Wine Bars"
+    ],
+    "address": [
+      "1900 Broadway",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/bar-boulud-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bar Italia Madison": {
+    "name": "Bar Italia Madison",
+    "rating": 3.5,
+    "review_count": 98,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "768 Madison Ave",
+      "Upper East Side",
+      "Manhattan, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/bar-italia-madison-manhattan?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bar Primi": {
+    "name": "Bar Primi",
+    "rating": 3.5,
+    "review_count": 442,
+    "categories": [
+      "Italian",
+      "Pasta Shops"
+    ],
+    "address": [
+      "325 Bowery",
+      "NoHo",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/bar-primi-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Barbetta": {
+    "name": "Barbetta",
+    "rating": 3.5,
+    "review_count": 181,
+    "categories": [
+      "Italian",
+      "American (New)"
+    ],
+    "address": [
+      "321 W 46th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/barbetta-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Barbounia": {
+    "name": "Barbounia",
+    "rating": 3.5,
+    "review_count": 1000,
+    "categories": [
+      "Greek",
+      "Mediterranean",
+      "Middle Eastern"
+    ],
+    "address": [
+      "250 Park Ave S",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/barbounia-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Barraca": {
+    "name": "Barraca",
+    "rating": 3.5,
+    "review_count": 542,
+    "categories": [
+      "Spanish",
+      "Tapas/Small Plates"
+    ],
+    "address": [
+      "81 Greenwich Ave",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/barraca-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Beauty & Essex": {
+    "name": "Beauty & Essex",
+    "rating": 4.0,
+    "review_count": 2684,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "146 Essex St",
+      "Lower East Side",
+      "New York, NY 10002"
+    ],
+    "url": "https://www.yelp.com/biz/beauty-and-essex-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Becco": {
+    "name": "Becco",
+    "rating": 3.5,
+    "review_count": 2318,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "355 W 46th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/becco-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bedford": {
+    "name": "Bedford",
+    "rating": 4.0,
+    "review_count": 95,
+    "categories": [
+      "American (New)",
+      "Desserts",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "118 E 40th St",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/bedford-new-york-14?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ben & Jack's Steakhouse": {
+    "name": "Ben & Jack's Steakhouse",
+    "rating": 4.0,
+    "review_count": 174,
+    "categories": [
+      "Steakhouses",
+      "Desserts",
+      "Wine Bars"
+    ],
+    "address": [
+      "219 E 44th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/ben-and-jacks-steakhouse-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Benchmark": {
+    "name": "Benchmark",
+    "rating": 3.5,
+    "review_count": 432,
+    "categories": [
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "339-A 2nd St",
+      "Park Slope",
+      "Brooklyn, NY 11215"
+    ],
+    "url": "https://www.yelp.com/biz/benchmark-brooklyn?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Benjamin Prime": {
+    "name": "Benjamin Prime",
+    "rating": 4.5,
+    "review_count": 115,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "23 E 40th St",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/benjamin-prime-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Benoit": {
+    "name": "Benoit",
+    "rating": 3.5,
+    "review_count": 364,
+    "categories": [
+      "French",
+      "Wine Bars"
+    ],
+    "address": [
+      "60 W 55th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/benoit-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "BKW By Brooklyn Winery": {
+    "name": "BKW By Brooklyn Winery",
+    "rating": 4.5,
+    "review_count": 90,
+    "categories": [
+      "Wine Bars",
+      "American (New)",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "747 Franklin Ave",
+      "Crown Heights",
+      "Brooklyn, NY 11238"
+    ],
+    "url": "https://www.yelp.com/biz/bkw-by-brooklyn-winery-brooklyn?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Black Barn": {
+    "name": "Black Barn",
+    "rating": 4.0,
+    "review_count": 324,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Wine Bars"
+    ],
+    "address": [
+      "19 E 26th St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/black-barn-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Blue Fin": {
+    "name": "Blue Fin",
+    "rating": 3.5,
+    "review_count": 829,
+    "categories": [
+      "Sushi Bars",
+      "Seafood"
+    ],
+    "address": [
+      "1567 Broadway",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/blue-fin-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Blue Water Grill": {
+    "name": "Blue Water Grill",
+    "rating": 4.0,
+    "review_count": 1375,
+    "categories": [
+      "Seafood",
+      "Sushi Bars"
+    ],
+    "address": [
+      "31 Union Sq W",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/blue-water-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bo's Kitchen & Bar Room": {
+    "name": "Bo's Kitchen & Bar Room",
+    "rating": 4.0,
+    "review_count": 285,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "6 W 24th St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/bos-kitchen-and-bar-room-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bobby Van's CPS": {
+    "name": "Bobby Van's CPS",
+    "rating": 4.0,
+    "review_count": 48,
+    "categories": [
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "40 Central Park S",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/bobby-vans-cps-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bobby Van's Steakhouse": {
+    "name": "Bobby Van's Steakhouse",
+    "rating": 3.5,
+    "review_count": 328,
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "American (Traditional)"
+    ],
+    "address": [
+      "25 Broad St",
+      "Financial District",
+      "New York, NY 10004"
+    ],
+    "url": "https://www.yelp.com/biz/bobby-vans-steakhouse-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bocca Restaurant & Bar": {
+    "name": "Bocca Restaurant & Bar",
+    "rating": 3.5,
+    "review_count": 304,
+    "categories": [
+      "Italian",
+      "Lounges"
+    ],
+    "address": [
+      "39 E 19th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/bocca-restaurant-and-bar-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bocca di Bacco Hell's Kitchen": {
+    "name": "Bocca di Bacco Hell's Kitchen",
+    "rating": 3.5,
+    "review_count": 552,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "828 9th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/bocca-di-bacco-hells-kitchen-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bodega Negra": {
+    "name": "Bodega Negra",
+    "rating": 3.5,
+    "review_count": 463,
+    "categories": [
+      "Mexican"
+    ],
+    "address": [
+      "355 W 16th St",
+      "Dream Downtown",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/bodega-negra-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Boucherie": {
+    "name": "Boucherie",
+    "rating": 4.5,
+    "review_count": 275,
+    "categories": [
+      "French",
+      "Cocktail Bars",
+      "Steakhouses"
+    ],
+    "address": [
+      "99 7th Ave S",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/boucherie-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Boulud Sud": {
+    "name": "Boulud Sud",
+    "rating": 4.0,
+    "review_count": 590,
+    "categories": [
+      "Mediterranean"
+    ],
+    "address": [
+      "20 West 64th Street",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/boulud-sud-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Brasserie 8 1/2": {
+    "name": "Brasserie 8 1/2",
+    "rating": 3.5,
+    "review_count": 378,
+    "categories": [
+      "American (New)",
+      "French"
+    ],
+    "address": [
+      "9 W 57th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/brasserie-8-1-2-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Brasserie Cognac": {
+    "name": "Brasserie Cognac",
+    "rating": 3.5,
+    "review_count": 297,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "1740 Broadway",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/brasserie-cognac-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Brasserie Ruhlmann": {
+    "name": "Brasserie Ruhlmann",
+    "rating": 3.5,
+    "review_count": 221,
+    "categories": [
+      "French",
+      "Brasseries"
+    ],
+    "address": [
+      "45 Rockefeller Plz",
+      "Midtown West",
+      "New York, NY 10111"
+    ],
+    "url": "https://www.yelp.com/biz/brasserie-ruhlmann-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bread & Tulips": {
+    "name": "Bread & Tulips",
+    "rating": 4.0,
+    "review_count": 205,
+    "categories": [
+      "Pizza",
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "365 Park Ave S",
+      "Flatiron",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/bread-and-tulips-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Burke & Wills": {
+    "name": "Burke & Wills",
+    "rating": 4.0,
+    "review_count": 334,
+    "categories": [
+      "Australian",
+      "Bars",
+      "Desserts"
+    ],
+    "address": [
+      "226 W 79th St",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/burke-and-wills-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Butter Midtown": {
+    "name": "Butter Midtown",
+    "rating": 3.5,
+    "review_count": 680,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "70 W 45th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/butter-midtown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Buttermilk Channel": {
+    "name": "Buttermilk Channel",
+    "rating": 4.0,
+    "review_count": 1625,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "524 Court St",
+      "Carroll Gardens",
+      "Brooklyn, NY 11231"
+    ],
+    "url": "https://www.yelp.com/biz/buttermilk-channel-brooklyn?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Bâtard": {
+    "name": "Bâtard",
+    "rating": 4.0,
+    "review_count": 263,
+    "categories": [
+      "Modern European",
+      "American (New)",
+      "French"
+    ],
+    "address": [
+      "239 West Broadway",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/b%C3%A2tard-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cafe D'Alsace": {
+    "name": "Cafe D'Alsace",
+    "rating": 4.0,
+    "review_count": 981,
+    "categories": [
+      "French",
+      "Breakfast & Brunch",
+      "Dinner Theater"
+    ],
+    "address": [
+      "1695 2nd Ave",
+      "Upper East Side",
+      "New York, NY 10128"
+    ],
+    "url": "https://www.yelp.com/biz/cafe-d-alsace-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cafe Boulud": {
+    "name": "Cafe Boulud",
+    "rating": 4.0,
+    "review_count": 563,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "20 E 76th St",
+      "Upper East Side",
+      "New York, NY 10021"
+    ],
+    "url": "https://www.yelp.com/biz/cafe-boulud-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cafe Centro": {
+    "name": "Cafe Centro",
+    "rating": 3.5,
+    "review_count": 132,
+    "categories": [
+      "French",
+      "Mediterranean"
+    ],
+    "address": [
+      "MetLife Building",
+      "200 Park Ave",
+      "Midtown East",
+      "New York, NY 10166"
+    ],
+    "url": "https://www.yelp.com/biz/cafe-centro-new-york-8?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Calle Ocho": {
+    "name": "Calle Ocho",
+    "rating": 4.0,
+    "review_count": 2222,
+    "categories": [
+      "Cuban",
+      "Latin American"
+    ],
+    "address": [
+      "45 W 81st St",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/calle-ocho-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Capri Ristorante": {
+    "name": "Capri Ristorante",
+    "rating": 2.5,
+    "review_count": 151,
+    "categories": [
+      "Italian",
+      "Seafood",
+      "Mediterranean"
+    ],
+    "address": [
+      "145 Mulberry St",
+      "Little Italy",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/capri-ristorante-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Casa Lever": {
+    "name": "Casa Lever",
+    "rating": 3.5,
+    "review_count": 180,
+    "categories": [
+      "Italian",
+      "Breakfast & Brunch",
+      "Lounges"
+    ],
+    "address": [
+      "390 Park Ave",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/casa-lever-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Casa Mono": {
+    "name": "Casa Mono",
+    "rating": 3.5,
+    "review_count": 1089,
+    "categories": [
+      "Spanish",
+      "Tapas Bars",
+      "Basque"
+    ],
+    "address": [
+      "52 Irving Pl",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/casa-mono-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Casa Nonna": {
+    "name": "Casa Nonna",
+    "rating": 4.0,
+    "review_count": 393,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "310 W 38th St",
+      "Midtown West",
+      "New York, NY 10018"
+    ],
+    "url": "https://www.yelp.com/biz/casa-nonna-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Catch": {
+    "name": "Catch",
+    "rating": 3.0,
+    "review_count": 1469,
+    "categories": [
+      "Asian Fusion",
+      "Sushi Bars",
+      "Seafood"
+    ],
+    "address": [
+      "21 Ninth Avenue",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/catch-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Charlie Palmer at the Knick": {
+    "name": "Charlie Palmer at the Knick",
+    "rating": 3.0,
+    "review_count": 39,
+    "categories": [
+      "American (New)",
+      "Steakhouses"
+    ],
+    "address": [
+      "6 Times Square",
+      "Midtown West",
+      "New York, NY 10037"
+    ],
+    "url": "https://www.yelp.com/biz/charlie-palmer-at-the-knick-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Charlie Palmer Steak": {
+    "name": "Charlie Palmer Steak",
+    "rating": 4.0,
+    "review_count": 145,
+    "categories": [
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "47 West 38th St",
+      "Midtown West",
+      "New York, NY 10018"
+    ],
+    "url": "https://www.yelp.com/biz/charlie-palmer-steak-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Chazz Palminteri Italian Restaurant": {
+    "name": "Chazz Palminteri Italian Restaurant",
+    "rating": 4.0,
+    "review_count": 115,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "30 West 46th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/chazz-palminteri-italian-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cherche Midi": {
+    "name": "Cherche Midi",
+    "rating": 4.0,
+    "review_count": 268,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "282 Bowery",
+      "Nolita",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/cherche-midi-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Chez Josephine": {
+    "name": "Chez Josephine",
+    "rating": 4.0,
+    "review_count": 340,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "414 W 42nd St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/chez-josephine-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Churrascaria Plataforma": {
+    "name": "Churrascaria Plataforma",
+    "rating": 4.0,
+    "review_count": 1131,
+    "categories": [
+      "Brazilian",
+      "Steakhouses",
+      "American (Traditional)"
+    ],
+    "address": [
+      "316 W 49th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/churrascaria-plataforma-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cipriani Dolci": {
+    "name": "Cipriani Dolci",
+    "rating": 3.0,
+    "review_count": 176,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "89 E 42nd St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/cipriani-dolci-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Cipriani Wall Street": {
+    "name": "Cipriani Wall Street",
+    "rating": 3.5,
+    "review_count": 160,
+    "categories": [
+      "Italian",
+      "Specialty Food"
+    ],
+    "address": [
+      "55 Wall St",
+      "Financial District",
+      "New York, NY 10005"
+    ],
+    "url": "https://www.yelp.com/biz/cipriani-wall-street-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Claudette": {
+    "name": "Claudette",
+    "rating": 4.0,
+    "review_count": 267,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "24 5th Ave",
+      "Greenwich Village",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/claudette-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Clement": {
+    "name": "Clement",
+    "rating": 4.0,
+    "review_count": 106,
+    "categories": [
+      "American (New)",
+      "Diners",
+      "Buffets"
+    ],
+    "address": [
+      "700 5th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/clement-new-york-13?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Club A Steakhouse": {
+    "name": "Club A Steakhouse",
+    "rating": 4.5,
+    "review_count": 2131,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "240 E 58th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/club-a-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Craft": {
+    "name": "Craft",
+    "rating": 4.0,
+    "review_count": 889,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "43 E 19th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/craft-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "CUT by Wolfgang Puck": {
+    "name": "CUT by Wolfgang Puck",
+    "rating": 3.5,
+    "review_count": 58,
+    "categories": [
+      "Steakhouses",
+      "American (New)",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "27 Barclay St",
+      "Financial District",
+      "New York, NY 10007"
+    ],
+    "url": "https://www.yelp.com/biz/cut-by-wolfgang-puck-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Danji": {
+    "name": "Danji",
+    "rating": 4.0,
+    "review_count": 798,
+    "categories": [
+      "Korean",
+      "Wine Bars"
+    ],
+    "address": [
+      "346 W 52nd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/danji-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "David Burke Kitchen": {
+    "name": "David Burke Kitchen",
+    "rating": 3.5,
+    "review_count": 1070,
+    "categories": [
+      "American (New)",
+      "Steakhouses"
+    ],
+    "address": [
+      "23 Grand St",
+      "South Village",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/david-burke-kitchen-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Davio's Northern Italian Steakhouse": {
+    "name": "Davio's Northern Italian Steakhouse",
+    "rating": 4.0,
+    "review_count": 222,
+    "categories": [
+      "Steakhouses",
+      "Italian",
+      "Gluten-Free"
+    ],
+    "address": [
+      "447 Lexington Ave",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/davios-northern-italian-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "DB Bistro Moderne": {
+    "name": "DB Bistro Moderne",
+    "rating": 3.5,
+    "review_count": 596,
+    "categories": [
+      "French",
+      "American (New)",
+      "Bars"
+    ],
+    "address": [
+      "55 W 44th St",
+      "Ste 1",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/db-bistro-moderne-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Del Frisco's Double Eagle Steak House": {
+    "name": "Del Frisco's Double Eagle Steak House",
+    "rating": 4.5,
+    "review_count": 2271,
+    "categories": [
+      "Steakhouses",
+      "American (New)",
+      "Seafood"
+    ],
+    "address": [
+      "1221 Ave Of The Americas",
+      "Midtown West",
+      "New York, NY 10020"
+    ],
+    "url": "https://www.yelp.com/biz/del-friscos-double-eagle-steak-house-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Delmonico's": {
+    "name": "Delmonico's",
+    "rating": 3.5,
+    "review_count": 811,
+    "categories": [
+      "Steakhouses",
+      "American (Traditional)"
+    ],
+    "address": [
+      "56 Beaver St",
+      "Financial District",
+      "New York, NY 10004"
+    ],
+    "url": "https://www.yelp.com/biz/delmonicos-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Delmonico's Kitchen": {
+    "name": "Delmonico's Kitchen",
+    "rating": 3.5,
+    "review_count": 286,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "207 W 36th St",
+      "Midtown West",
+      "New York, NY 10018"
+    ],
+    "url": "https://www.yelp.com/biz/delmonicos-kitchen-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Distilled": {
+    "name": "Distilled",
+    "rating": 4.0,
+    "review_count": 637,
+    "categories": [
+      "American (New)",
+      "Cocktail Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "211 W Broadway",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/distilled-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Docks Oyster Bar and Seafood Grill": {
+    "name": "Docks Oyster Bar and Seafood Grill",
+    "rating": 3.5,
+    "review_count": 463,
+    "categories": [
+      "Seafood",
+      "Bars"
+    ],
+    "address": [
+      "633 3rd Ave",
+      "Murray Hill",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/docks-oyster-bar-and-seafood-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Dos Caminos": {
+    "name": "Dos Caminos",
+    "rating": 3.5,
+    "review_count": 294,
+    "categories": [
+      "Mexican"
+    ],
+    "address": [
+      "1567 Broadway",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/dos-caminos-new-york-7?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "E&E Grill House": {
+    "name": "E&E Grill House",
+    "rating": 4.0,
+    "review_count": 272,
+    "categories": [
+      "Steakhouses",
+      "American (Traditional)",
+      "Wine Bars"
+    ],
+    "address": [
+      "233 W 49th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/e-and-e-grill-house-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Edi & the Wolf": {
+    "name": "Edi & the Wolf",
+    "rating": 4.0,
+    "review_count": 392,
+    "categories": [
+      "German"
+    ],
+    "address": [
+      "102 Ave C",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/edi-and-the-wolf-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "El Toro Blanco": {
+    "name": "El Toro Blanco",
+    "rating": 3.5,
+    "review_count": 335,
+    "categories": [
+      "Mexican",
+      "Cocktail Bars",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "257 Avenue Of The Americas",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/el-toro-blanco-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rosa Mexicano": {
+    "name": "Rosa Mexicano",
+    "rating": 3.5,
+    "review_count": 982,
+    "categories": [
+      "Mexican"
+    ],
+    "address": [
+      "61 Columbus Ave",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/rosa-mexicano-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Empellón Taqueria": {
+    "name": "Empellón Taqueria",
+    "rating": 3.5,
+    "review_count": 593,
+    "categories": [
+      "Mexican",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "230 W 4th St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/empell%C3%B3n-taqueria-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Empire Steak House": {
+    "name": "Empire Steak House",
+    "rating": 4.0,
+    "review_count": 119,
+    "categories": [
+      "Steakhouses",
+      "Wine Bars",
+      "Seafood"
+    ],
+    "address": [
+      "151 E 50th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/empire-steak-house-new-york-11?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Esca": {
+    "name": "Esca",
+    "rating": 3.5,
+    "review_count": 610,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "402 W 43rd St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/esca-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Essex": {
+    "name": "Essex",
+    "rating": 3.5,
+    "review_count": 1711,
+    "categories": [
+      "Bars",
+      "American (New)"
+    ],
+    "address": [
+      "120 Essex St",
+      "Lower East Side",
+      "New York, NY 10002"
+    ],
+    "url": "https://www.yelp.com/biz/essex-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Loi Estiatorio": {
+    "name": "Loi Estiatorio",
+    "rating": 4.5,
+    "review_count": 240,
+    "categories": [
+      "Greek"
+    ],
+    "address": [
+      "132 W 58th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/loi-estiatorio-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Etcetera Etcetera": {
+    "name": "Etcetera Etcetera",
+    "rating": 4.0,
+    "review_count": 370,
+    "categories": [
+      "Italian",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "352 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/etcetera-etcetera-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Farmer & The Fish- Gramercy": {
+    "name": "Farmer & The Fish- Gramercy",
+    "rating": 3.5,
+    "review_count": 144,
+    "categories": [
+      "Seafood",
+      "Tapas/Small Plates",
+      "American (New)"
+    ],
+    "address": [
+      "245 Park Ave S",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/farmer-and-the-fish-gramercy-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Feast": {
+    "name": "Feast",
+    "rating": 4.0,
+    "review_count": 365,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Bars"
+    ],
+    "address": [
+      "102 3rd Ave",
+      "East Village",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/feast-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Felice": {
+    "name": "Felice",
+    "rating": 4.0,
+    "review_count": 225,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "15 Gold St",
+      "Financial District",
+      "New York, NY 10038"
+    ],
+    "url": "https://www.yelp.com/biz/felice-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Felice 64": {
+    "name": "Felice 64",
+    "rating": 3.5,
+    "review_count": 233,
+    "categories": [
+      "Wine Bars",
+      "Italian",
+      "Diners"
+    ],
+    "address": [
+      "1166 1st Ave",
+      "Upper East Side",
+      "New York, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/felice-64-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Felice 83": {
+    "name": "Felice 83",
+    "rating": 3.5,
+    "review_count": 176,
+    "categories": [
+      "Wine Bars",
+      "Italian"
+    ],
+    "address": [
+      "1593 1st Ave",
+      "Upper East Side",
+      "New York, NY 10028"
+    ],
+    "url": "https://www.yelp.com/biz/felice-83-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Felidia": {
+    "name": "Felidia",
+    "rating": 4.0,
+    "review_count": 447,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "243 E 58th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/felidia-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fifty": {
+    "name": "Fifty",
+    "rating": 4.5,
+    "review_count": 95,
+    "categories": [
+      "Latin American",
+      "Wine Bars",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "50 Commerce St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/fifty-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fig & Olive - New York": {
+    "name": "Fig & Olive - New York",
+    "rating": 3.5,
+    "review_count": 965,
+    "categories": [
+      "Mediterranean",
+      "French",
+      "Italian"
+    ],
+    "address": [
+      "10 E 52nd St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/fig-and-olive-new-york-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fig & Olive Meatpacking": {
+    "name": "Fig & Olive Meatpacking",
+    "rating": 3.5,
+    "review_count": 1181,
+    "categories": [
+      "Mediterranean",
+      "French",
+      "Italian"
+    ],
+    "address": [
+      "420 W 13th St",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/fig-and-olive-meatpacking-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fig & Olive Uptown": {
+    "name": "Fig & Olive Uptown",
+    "rating": 3.5,
+    "review_count": 368,
+    "categories": [
+      "Italian",
+      "Mediterranean",
+      "French"
+    ],
+    "address": [
+      "808 Lexington Ave",
+      "Upper East Side",
+      "New York, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/fig-and-olive-uptown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "FishTag": {
+    "name": "FishTag",
+    "rating": 4.0,
+    "review_count": 418,
+    "categories": [
+      "Seafood",
+      "Mediterranean",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "222 W 79th St",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/fishtag-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fogo de Chão Brazilian Steakhouse": {
+    "name": "Fogo de Chão Brazilian Steakhouse",
+    "rating": 4.0,
+    "review_count": 776,
+    "categories": [
+      "Brazilian",
+      "Steakhouses"
+    ],
+    "address": [
+      "40 W 53rd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/fogo-de-ch%C3%A3o-brazilian-steakhouse-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fonda East Village": {
+    "name": "Fonda East Village",
+    "rating": 4.0,
+    "review_count": 595,
+    "categories": [
+      "Mexican",
+      "Desserts",
+      "Salad"
+    ],
+    "address": [
+      "40 Avenue B",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/fonda-east-village-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Frankie & Johnnie's Steakhouse": {
+    "name": "Frankie & Johnnie's Steakhouse",
+    "rating": 3.5,
+    "review_count": 193,
+    "categories": [
+      "Steakhouses",
+      "Pubs",
+      "Wine Bars"
+    ],
+    "address": [
+      "320 W 46th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/frankie-and-johnnies-steakhouse-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "French Louie": {
+    "name": "French Louie",
+    "rating": 4.0,
+    "review_count": 257,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "320 Atlantic Ave",
+      "Boerum Hill",
+      "Boerum Hill, NY 11201"
+    ],
+    "url": "https://www.yelp.com/biz/french-louie-boerum-hill?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Freud": {
+    "name": "Freud",
+    "rating": 4.0,
+    "review_count": 58,
+    "categories": [
+      "Austrian",
+      "American (New)"
+    ],
+    "address": [
+      "506 Laguardia Pl",
+      "Greenwich Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/freud-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Fusco": {
+    "name": "Fusco",
+    "rating": 4.0,
+    "review_count": 78,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "43 E 20th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/fusco-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gabriel's Bar & Restaurant": {
+    "name": "Gabriel's Bar & Restaurant",
+    "rating": 4.0,
+    "review_count": 125,
+    "categories": [
+      "Italian",
+      "Bars"
+    ],
+    "address": [
+      "11 W 60th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/gabriels-bar-and-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gaby": {
+    "name": "Gaby",
+    "rating": 3.0,
+    "review_count": 77,
+    "categories": [
+      "French",
+      "Modern European",
+      "Bars"
+    ],
+    "address": [
+      "Sofitel Luxury Hotel",
+      "44 W 45th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/gaby-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gallaghers Steakhouse": {
+    "name": "Gallaghers Steakhouse",
+    "rating": 4.0,
+    "review_count": 681,
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "American (Traditional)"
+    ],
+    "address": [
+      "228 West 52nd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/gallaghers-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gaonnuri": {
+    "name": "Gaonnuri",
+    "rating": 3.5,
+    "review_count": 612,
+    "categories": [
+      "Korean",
+      "Barbeque",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "1250 Broadway",
+      "Fl 39",
+      "Midtown West",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/gaonnuri-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gin Parlour": {
+    "name": "Gin Parlour",
+    "rating": 4.0,
+    "review_count": 16,
+    "categories": [
+      "Diners",
+      "Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "111 E 48th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/gin-parlour-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Giorgio's of Gramercy": {
+    "name": "Giorgio's of Gramercy",
+    "rating": 4.0,
+    "review_count": 676,
+    "categories": [
+      "Italian",
+      "American (New)"
+    ],
+    "address": [
+      "27 E 21st St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/giorgios-of-gramercy-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Giovanni Rana Pastificio & Cucina": {
+    "name": "Giovanni Rana Pastificio & Cucina",
+    "rating": 3.5,
+    "review_count": 586,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "75 9th Ave",
+      "Meatpacking District",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/giovanni-rana-pastificio-and-cucina-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Glass House Tavern": {
+    "name": "Glass House Tavern",
+    "rating": 3.5,
+    "review_count": 262,
+    "categories": [
+      "American (New)",
+      "Diners",
+      "Bars"
+    ],
+    "address": [
+      "252 W 47th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/glass-house-tavern-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gotham Bar and Grill": {
+    "name": "Gotham Bar and Grill",
+    "rating": 4.5,
+    "review_count": 1387,
+    "categories": [
+      "American (New)",
+      "Bars"
+    ],
+    "address": [
+      "12 E 12th St",
+      "Union Square",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/gotham-bar-and-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Gran Morsi": {
+    "name": "Gran Morsi",
+    "rating": 4.5,
+    "review_count": 242,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "22 Warren St",
+      "Civic Center",
+      "New York, NY 10007"
+    ],
+    "url": "https://www.yelp.com/biz/gran-morsi-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Green Fig": {
+    "name": "Green Fig",
+    "rating": 4.0,
+    "review_count": 78,
+    "categories": [
+      "Cocktail Bars",
+      "Middle Eastern",
+      "Mediterranean"
+    ],
+    "address": [
+      "570 10th Ave",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/green-fig-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Greenhouse Cafe": {
+    "name": "Greenhouse Cafe",
+    "rating": 4.0,
+    "review_count": 19,
+    "categories": [
+      "Breakfast & Brunch",
+      "Cafes"
+    ],
+    "address": [
+      "539 Flatbush Ave",
+      "Prospect Lefferts Gardens",
+      "Brooklyn, NY 11225"
+    ],
+    "url": "https://www.yelp.com/biz/greenhouse-cafe-brooklyn-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Grotta Azzurra Restaurant": {
+    "name": "Grotta Azzurra Restaurant",
+    "rating": 3.0,
+    "review_count": 418,
+    "categories": [
+      "Italian",
+      "Breakfast & Brunch",
+      "Seafood"
+    ],
+    "address": [
+      "177 Mulberry St",
+      "Little Italy",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/grotta-azzurra-restaurant-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Hakkasan": {
+    "name": "Hakkasan",
+    "rating": 3.5,
+    "review_count": 710,
+    "categories": [
+      "Chinese"
+    ],
+    "address": [
+      "311 W 43rd St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/hakkasan-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Hanjan": {
+    "name": "Hanjan",
+    "rating": 3.5,
+    "review_count": 312,
+    "categories": [
+      "Korean"
+    ],
+    "address": [
+      "36 W 26th St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/hanjan-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Haru Sushi": {
+    "name": "Haru Sushi",
+    "rating": 3.5,
+    "review_count": 571,
+    "categories": [
+      "Japanese",
+      "Sushi Bars"
+    ],
+    "address": [
+      "229 W 43rd St",
+      "Ste 221",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/haru-sushi-new-york-16?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Hearth": {
+    "name": "Hearth",
+    "rating": 4.0,
+    "review_count": 617,
+    "categories": [
+      "American (New)",
+      "Italian",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "403 E 12th St",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/hearth-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "High Street On Hudson": {
+    "name": "High Street On Hudson",
+    "rating": 4.0,
+    "review_count": 259,
+    "categories": [
+      "American (New)",
+      "Wine Bars"
+    ],
+    "address": [
+      "637 Hudson St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/high-street-on-hudson-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Hunt & Fish Club": {
+    "name": "Hunt & Fish Club",
+    "rating": 4.0,
+    "review_count": 260,
+    "categories": [
+      "American (New)",
+      "Steakhouses",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "125 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/hunt-and-fish-club-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "I Trulli": {
+    "name": "I Trulli",
+    "rating": 3.5,
+    "review_count": 309,
+    "categories": [
+      "Italian",
+      "Wine Bars",
+      "Pasta Shops"
+    ],
+    "address": [
+      "124 E 27th St",
+      "Flatiron",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/i-trulli-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "il Buco Alimentari & Vineria": {
+    "name": "il Buco Alimentari & Vineria",
+    "rating": 3.5,
+    "review_count": 451,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "53 Great Jones St",
+      "NoHo",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/il-buco-alimentari-and-vineria-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Il Cantinori": {
+    "name": "Il Cantinori",
+    "rating": 4.0,
+    "review_count": 208,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "32 E 10th St",
+      "Greenwich Village",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/il-cantinori-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "IL Cortile": {
+    "name": "IL Cortile",
+    "rating": 3.5,
+    "review_count": 360,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "125 Mulberry St",
+      "Little Italy",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/il-cortile-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Il Mulino New York - Downtown": {
+    "name": "Il Mulino New York - Downtown",
+    "rating": 4.0,
+    "review_count": 473,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "86 W 3rd St",
+      "Greenwich Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/il-mulino-new-york-downtown-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Il Mulino New York - Uptown": {
+    "name": "Il Mulino New York - Uptown",
+    "rating": 3.5,
+    "review_count": 140,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "37 E 60th St",
+      "Upper East Side",
+      "New York, NY 10021"
+    ],
+    "url": "https://www.yelp.com/biz/il-mulino-new-york-uptown-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Il Mulino Prime": {
+    "name": "Il Mulino Prime",
+    "rating": 3.5,
+    "review_count": 107,
+    "categories": [
+      "Steakhouses",
+      "Italian"
+    ],
+    "address": [
+      "331 W Broadway",
+      "SoHo",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/il-mulino-prime-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Il Postino": {
+    "name": "Il Postino",
+    "rating": 4.0,
+    "review_count": 81,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "337 East 49th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/il-postino-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "ilili": {
+    "name": "ilili",
+    "rating": 4.0,
+    "review_count": 2003,
+    "categories": [
+      "Mediterranean",
+      "Lebanese"
+    ],
+    "address": [
+      "236 5th Ave",
+      "Flatiron",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/ilili-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Inakaya": {
+    "name": "Inakaya",
+    "rating": 3.5,
+    "review_count": 455,
+    "categories": [
+      "Japanese",
+      "Sushi Bars"
+    ],
+    "address": [
+      "231 W 40th St",
+      "New York Times Bldg",
+      "Midtown West",
+      "New York, NY 10018"
+    ],
+    "url": "https://www.yelp.com/biz/inakaya-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Indochine": {
+    "name": "Indochine",
+    "rating": 3.5,
+    "review_count": 301,
+    "categories": [
+      "Vietnamese",
+      "French"
+    ],
+    "address": [
+      "430 Lafayette St",
+      "Ste A",
+      "NoHo",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/indochine-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Irvington": {
+    "name": "Irvington",
+    "rating": 3.5,
+    "review_count": 137,
+    "categories": [
+      "American (New)",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "201 Park Ave S",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/irvington-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Jams": {
+    "name": "Jams",
+    "rating": 3.5,
+    "review_count": 176,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Bars"
+    ],
+    "address": [
+      "1414 Ave Of The Americas",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/jams-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Jue Lan Club": {
+    "name": "Jue Lan Club",
+    "rating": 3.0,
+    "review_count": 200,
+    "categories": [
+      "Chinese"
+    ],
+    "address": [
+      "49 W 20th St",
+      "Flatiron",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/jue-lan-club-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Junoon": {
+    "name": "Junoon",
+    "rating": 3.5,
+    "review_count": 1134,
+    "categories": [
+      "Indian",
+      "Desserts",
+      "Wine Bars"
+    ],
+    "address": [
+      "27 W 24th St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/junoon-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Kefi": {
+    "name": "Kefi",
+    "rating": 3.5,
+    "review_count": 1312,
+    "categories": [
+      "Greek",
+      "Mediterranean",
+      "Tapas/Small Plates"
+    ],
+    "address": [
+      "505 Columbus Ave",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/kefi-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Kellari Taverna": {
+    "name": "Kellari Taverna",
+    "rating": 3.5,
+    "review_count": 469,
+    "categories": [
+      "Greek",
+      "Mediterranean",
+      "Seafood"
+    ],
+    "address": [
+      "19 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/kellari-taverna-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Khe-Yo": {
+    "name": "Khe-Yo",
+    "rating": 4.0,
+    "review_count": 537,
+    "categories": [
+      "Thai",
+      "Laotian",
+      "Vietnamese"
+    ],
+    "address": [
+      "157 Duane St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/khe-yo-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Kingside": {
+    "name": "Kingside",
+    "rating": 3.5,
+    "review_count": 192,
+    "categories": [
+      "Cocktail Bars",
+      "American (New)",
+      "Sushi Bars"
+    ],
+    "address": [
+      "124 W 57th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/kingside-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Kingsley": {
+    "name": "Kingsley",
+    "rating": 3.5,
+    "review_count": 101,
+    "categories": [
+      "American (New)",
+      "Cocktail Bars",
+      "Wine Bars"
+    ],
+    "address": [
+      "190 Ave B",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/kingsley-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "La Fonda Del Sol": {
+    "name": "La Fonda Del Sol",
+    "rating": 3.5,
+    "review_count": 276,
+    "categories": [
+      "Spanish",
+      "Tapas/Small Plates"
+    ],
+    "address": [
+      "Metlife Building",
+      "200 Park Ave",
+      "Midtown East",
+      "New York, NY 10166"
+    ],
+    "url": "https://www.yelp.com/biz/la-fonda-del-sol-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "La Loteria": {
+    "name": "La Loteria",
+    "rating": 4.0,
+    "review_count": 235,
+    "categories": [
+      "Mexican"
+    ],
+    "address": [
+      "29 7th Ave S",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/la-loteria-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "La Masseria": {
+    "name": "La Masseria",
+    "rating": 4.0,
+    "review_count": 472,
+    "categories": [
+      "Italian",
+      "Desserts",
+      "Salad"
+    ],
+    "address": [
+      "235 W 48th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/la-masseria-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "San Pietro Restaurant": {
+    "name": "San Pietro Restaurant",
+    "rating": 3.0,
+    "review_count": 51,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "18 E 54th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/san-pietro-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "La Pecora Bianca": {
+    "name": "La Pecora Bianca",
+    "rating": 3.5,
+    "review_count": 26,
+    "categories": [
+      "Italian",
+      "Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "950 2nd Ave",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/la-pecora-bianca-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "La Sirene": {
+    "name": "La Sirene",
+    "rating": 4.5,
+    "review_count": 1431,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "558 Broome St",
+      "South Village",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/la-sirene-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lafayette": {
+    "name": "Lafayette",
+    "rating": 3.5,
+    "review_count": 730,
+    "categories": [
+      "French",
+      "Brasseries",
+      "Bakeries"
+    ],
+    "address": [
+      "380 Lafayette St",
+      "NoHo",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/lafayette-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "LAVO Italian Restaurant": {
+    "name": "LAVO Italian Restaurant",
+    "rating": 3.0,
+    "review_count": 676,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "39 E 58th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/lavo-italian-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Le Colonial": {
+    "name": "Le Colonial",
+    "rating": 3.5,
+    "review_count": 215,
+    "categories": [
+      "Vietnamese",
+      "Lounges"
+    ],
+    "address": [
+      "149 E 57th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/le-colonial-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Le Coq Rico": {
+    "name": "Le Coq Rico",
+    "rating": 4.0,
+    "review_count": 225,
+    "categories": [
+      "French",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "30 E 20th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/le-coq-rico-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Left Bank": {
+    "name": "Left Bank",
+    "rating": 3.5,
+    "review_count": 241,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "117 Perry St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/left-bank-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Legasea Seafood Brasserie": {
+    "name": "Legasea Seafood Brasserie",
+    "rating": 4.0,
+    "review_count": 55,
+    "categories": [
+      "Seafood"
+    ],
+    "address": [
+      "485 7th Avenue",
+      "Midtown West",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/legasea-seafood-brasserie-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Leuca": {
+    "name": "Leuca",
+    "rating": 4.0,
+    "review_count": 143,
+    "categories": [
+      "Italian",
+      "Pasta Shops",
+      "Pizza"
+    ],
+    "address": [
+      "111 N 12th St",
+      "The William Vale Hotel",
+      "Williamsburg - North Side",
+      "Brooklyn, NY 11249"
+    ],
+    "url": "https://www.yelp.com/biz/leuca-brooklyn?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lexington Brass": {
+    "name": "Lexington Brass",
+    "rating": 3.5,
+    "review_count": 682,
+    "categories": [
+      "American (Traditional)",
+      "Gluten-Free",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "517 Lexington Ave",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/lexington-brass-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lido": {
+    "name": "Lido",
+    "rating": 4.0,
+    "review_count": 752,
+    "categories": [
+      "Italian",
+      "Breakfast & Brunch",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "2168 Frederick Douglass Blvd",
+      "Harlem",
+      "New York, NY 10026"
+    ],
+    "url": "https://www.yelp.com/biz/lido-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Limani": {
+    "name": "Limani",
+    "rating": 4.0,
+    "review_count": 278,
+    "categories": [
+      "Mediterranean",
+      "Seafood"
+    ],
+    "address": [
+      "45 Rockerfeller Plz",
+      "Midtown West",
+      "New York, NY 10111"
+    ],
+    "url": "https://www.yelp.com/biz/limani-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lincoln Ristorante": {
+    "name": "Lincoln Ristorante",
+    "rating": 4.0,
+    "review_count": 460,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "142 W 65th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/lincoln-ristorante-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lincoln Square Steak": {
+    "name": "Lincoln Square Steak",
+    "rating": 4.0,
+    "review_count": 410,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "208 W 70th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/lincoln-square-steak-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Little Park": {
+    "name": "Little Park",
+    "rating": 4.0,
+    "review_count": 284,
+    "categories": [
+      "American (New)",
+      "Seafood",
+      "Salad"
+    ],
+    "address": [
+      "85 W Broadway",
+      "TriBeCa",
+      "New York, NY 10007"
+    ],
+    "url": "https://www.yelp.com/biz/little-park-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lupa": {
+    "name": "Lupa",
+    "rating": 4.0,
+    "review_count": 1330,
+    "categories": [
+      "Italian",
+      "American (New)"
+    ],
+    "address": [
+      "170 Thompson St",
+      "Greenwich Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/lupa-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Lure Fishbar - New York": {
+    "name": "Lure Fishbar - New York",
+    "rating": 4.0,
+    "review_count": 1420,
+    "categories": [
+      "Seafood",
+      "Sushi Bars",
+      "Bars"
+    ],
+    "address": [
+      "142 Mercer St",
+      "Lower Level",
+      "SoHo",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/lure-fishbar-new-york-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Maiella": {
+    "name": "Maiella",
+    "rating": 4.5,
+    "review_count": 524,
+    "categories": [
+      "Italian",
+      "Seafood",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "4610 Center Blvd",
+      "Hunters Point",
+      "Long Island City, NY 11109"
+    ],
+    "url": "https://www.yelp.com/biz/maiella-long-island-city?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Maloney & Porcelli": {
+    "name": "Maloney & Porcelli",
+    "rating": 4.0,
+    "review_count": 378,
+    "categories": [
+      "American (Traditional)",
+      "Steakhouses"
+    ],
+    "address": [
+      "37 E 50th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/maloney-and-porcelli-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "MAMO Restaurant": {
+    "name": "MAMO Restaurant",
+    "rating": 4.0,
+    "review_count": 182,
+    "categories": [
+      "Italian",
+      "French"
+    ],
+    "address": [
+      "323 W Broadway",
+      "SoHo",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/mamo-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "MarkJoseph Steakhouse": {
+    "name": "MarkJoseph Steakhouse",
+    "rating": 4.0,
+    "review_count": 326,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "261 Water St",
+      "Financial District",
+      "New York, NY 10038"
+    ],
+    "url": "https://www.yelp.com/biz/markjoseph-steakhouse-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Marseille": {
+    "name": "Marseille",
+    "rating": 3.5,
+    "review_count": 708,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "630 9th Ave",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/marseille-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Masseria Dei Vini": {
+    "name": "Masseria Dei Vini",
+    "rating": 4.0,
+    "review_count": 349,
+    "categories": [
+      "Wine Bars",
+      "Italian",
+      "Desserts"
+    ],
+    "address": [
+      "887 9th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/masseria-dei-vini-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Massoni": {
+    "name": "Massoni",
+    "rating": 4.0,
+    "review_count": 147,
+    "categories": [
+      "Italian",
+      "Bars"
+    ],
+    "address": [
+      "11 E 31st St",
+      "Midtown East",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/massoni-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Maxwell's Chophouse": {
+    "name": "Maxwell's Chophouse",
+    "rating": 4.0,
+    "review_count": 47,
+    "categories": [
+      "Steakhouses",
+      "Seafood"
+    ],
+    "address": [
+      "1184 Broadway",
+      "Flatiron",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/maxwells-chophouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Meet The Meat": {
+    "name": "Meet The Meat",
+    "rating": 4.5,
+    "review_count": 188,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "2392 21st St",
+      "Astoria",
+      "Astoria, NY 11105"
+    ],
+    "url": "https://www.yelp.com/biz/meet-the-meat-astoria?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Megu": {
+    "name": "Megu",
+    "rating": 3.5,
+    "review_count": 155,
+    "categories": [
+      "Japanese"
+    ],
+    "address": [
+      "355 W 16th St",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/megu-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Mercer Kitchen": {
+    "name": "The Mercer Kitchen",
+    "rating": 3.5,
+    "review_count": 1364,
+    "categories": [
+      "American (New)",
+      "French",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "99 Prince St",
+      "SoHo",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/the-mercer-kitchen-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Michael Jordan's The Steak House N.Y.C": {
+    "name": "Michael Jordan's The Steak House N.Y.C",
+    "rating": 3.0,
+    "review_count": 388,
+    "categories": [
+      "Steakhouses",
+      "Cocktail Bars",
+      "Wine Bars"
+    ],
+    "address": [
+      "23 Vanderbilt Ave",
+      "Grand Central Terminal",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/michael-jordans-the-steak-house-nyc-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Michael's": {
+    "name": "Michael's",
+    "rating": 3.5,
+    "review_count": 89,
+    "categories": [
+      "American (New)",
+      "Salad",
+      "Pizza"
+    ],
+    "address": [
+      "24 W 55th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/michaels-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Molyvos": {
+    "name": "Molyvos",
+    "rating": 4.0,
+    "review_count": 402,
+    "categories": [
+      "Greek",
+      "Mediterranean"
+    ],
+    "address": [
+      "871 7th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/molyvos-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Momofuku Má Pêche": {
+    "name": "Momofuku Má Pêche",
+    "rating": 3.5,
+    "review_count": 986,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "Chambers Hotel",
+      "15 W 56th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/momofuku-m%C3%A1-p%C3%AAche-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Momofuku Nishi": {
+    "name": "Momofuku Nishi",
+    "rating": 4.0,
+    "review_count": 348,
+    "categories": [
+      "Italian",
+      "American (New)"
+    ],
+    "address": [
+      "232 8th Ave",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/momofuku-nishi-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Monkey Bar": {
+    "name": "Monkey Bar",
+    "rating": 3.5,
+    "review_count": 231,
+    "categories": [
+      "American (Traditional)",
+      "Bars"
+    ],
+    "address": [
+      "60 E 54th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/monkey-bar-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Montebello Ristorante Italiano": {
+    "name": "Montebello Ristorante Italiano",
+    "rating": 3.0,
+    "review_count": 68,
+    "categories": [
+      "Italian",
+      "Bars"
+    ],
+    "address": [
+      "120 E 56th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/montebello-ristorante-italiano-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Morimoto": {
+    "name": "Morimoto",
+    "rating": 4.0,
+    "review_count": 2675,
+    "categories": [
+      "Japanese",
+      "Sushi Bars"
+    ],
+    "address": [
+      "88 10th Ave",
+      "Meatpacking District",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/morimoto-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Morrell Wine Bar & Cafe": {
+    "name": "Morrell Wine Bar & Cafe",
+    "rating": 3.5,
+    "review_count": 201,
+    "categories": [
+      "Wine Bars",
+      "American (New)",
+      "Cafes"
+    ],
+    "address": [
+      "1 Rockefeller Plz 49th St",
+      "Midtown West",
+      "New York, NY 10020"
+    ],
+    "url": "https://www.yelp.com/biz/morrell-wine-bar-and-cafe-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Arlington Club": {
+    "name": "Arlington Club",
+    "rating": 3.0,
+    "review_count": 220,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "1032 Lexington Ave",
+      "Upper East Side",
+      "New York, NY 10021"
+    ],
+    "url": "https://www.yelp.com/biz/arlington-club-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Morton's The Steakhouse": {
+    "name": "Morton's The Steakhouse",
+    "rating": 4.0,
+    "review_count": 406,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "551 5th Ave",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/mortons-the-steakhouse-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "MP Taverna Astoria": {
+    "name": "MP Taverna Astoria",
+    "rating": 4.0,
+    "review_count": 687,
+    "categories": [
+      "Greek",
+      "American (New)"
+    ],
+    "address": [
+      "31-29 Ditmars Blvd",
+      "Astoria",
+      "Astoria, NY 11105"
+    ],
+    "url": "https://www.yelp.com/biz/mp-taverna-astoria-astoria?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Mr Chow": {
+    "name": "Mr Chow",
+    "rating": 3.0,
+    "review_count": 318,
+    "categories": [
+      "Chinese"
+    ],
+    "address": [
+      "121 Hudson St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/mr-chow-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Mulino a Vino": {
+    "name": "Mulino a Vino",
+    "rating": 4.0,
+    "review_count": 148,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "337 W 14th St",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/mulino-a-vino-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Naples 45 Ristorante E Pizzeria": {
+    "name": "Naples 45 Ristorante E Pizzeria",
+    "rating": 3.0,
+    "review_count": 311,
+    "categories": [
+      "Pizza",
+      "Italian"
+    ],
+    "address": [
+      "The Metlife Building",
+      "200 Park Ave",
+      "Midtown East",
+      "New York, NY 10166"
+    ],
+    "url": "https://www.yelp.com/biz/naples-45-ristorante-e-pizzeria-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Narcissa": {
+    "name": "Narcissa",
+    "rating": 4.0,
+    "review_count": 402,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "25 Cooper Sq",
+      "East Village",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/narcissa-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Natsumi": {
+    "name": "Natsumi",
+    "rating": 4.0,
+    "review_count": 642,
+    "categories": [
+      "Sushi Bars",
+      "Japanese",
+      "Lounges"
+    ],
+    "address": [
+      "226 W 50th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/natsumi-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Neta": {
+    "name": "Neta",
+    "rating": 4.0,
+    "review_count": 309,
+    "categories": [
+      "Sushi Bars",
+      "Japanese"
+    ],
+    "address": [
+      "61 W 8th St",
+      "Greenwich Village",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/neta-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nice Matin": {
+    "name": "Nice Matin",
+    "rating": 3.5,
+    "review_count": 629,
+    "categories": [
+      "French",
+      "Breakfast & Brunch",
+      "Gluten-Free"
+    ],
+    "address": [
+      "201 W 79th St",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/nice-matin-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nick & Stef's Steakhouse": {
+    "name": "Nick & Stef's Steakhouse",
+    "rating": 3.5,
+    "review_count": 165,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "9 Penn Plz",
+      "Midtown West",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/nick-and-stefs-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nickel & Diner": {
+    "name": "Nickel & Diner",
+    "rating": 4.0,
+    "review_count": 235,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "1 Howard St",
+      "Little Italy",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/nickel-and-diner-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nino's 46": {
+    "name": "Nino's 46",
+    "rating": 4.0,
+    "review_count": 881,
+    "categories": [
+      "Italian",
+      "Gluten-Free",
+      "Pizza"
+    ],
+    "address": [
+      "39 W 46th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/ninos-46-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Noreetuh": {
+    "name": "Noreetuh",
+    "rating": 4.0,
+    "review_count": 329,
+    "categories": [
+      "American (New)",
+      "Hawaiian"
+    ],
+    "address": [
+      "128 1st Ave",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/noreetuh-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "North Square": {
+    "name": "North Square",
+    "rating": 4.0,
+    "review_count": 264,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "103 Waverly Pl",
+      "Greenwich Village",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/north-square-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nougatine at Jean-Georges": {
+    "name": "Nougatine at Jean-Georges",
+    "rating": 4.0,
+    "review_count": 968,
+    "categories": [
+      "French",
+      "Asian Fusion",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "1 Central Park W",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/nougatine-at-jean-georges-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Obicà Mozzarella Bar Pizza e Cucina": {
+    "name": "Obicà Mozzarella Bar Pizza e Cucina",
+    "rating": 4.0,
+    "review_count": 321,
+    "categories": [
+      "Italian",
+      "Wine Bars",
+      "Pizza"
+    ],
+    "address": [
+      "928 Broadway",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/obic%C3%A0-mozzarella-bar-pizza-e-cucina-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ocean Prime": {
+    "name": "Ocean Prime",
+    "rating": 4.0,
+    "review_count": 245,
+    "categories": [
+      "Seafood",
+      "Steakhouses",
+      "American (New)"
+    ],
+    "address": [
+      "123 W 52nd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/ocean-prime-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "One Dine": {
+    "name": "One Dine",
+    "rating": 3.0,
+    "review_count": 86,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "285 Fulton St",
+      "One World Trade Center",
+      "Financial District",
+      "New York, NY 10007"
+    ],
+    "url": "https://www.yelp.com/biz/one-dine-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Orsay": {
+    "name": "Orsay",
+    "rating": 3.5,
+    "review_count": 217,
+    "categories": [
+      "French"
+    ],
+    "address": [
+      "1057 Lexington Ave",
+      "Upper East Side",
+      "New York, NY 10021"
+    ],
+    "url": "https://www.yelp.com/biz/orsay-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "LUMA Hotel Times Square": {
+    "name": "LUMA Hotel Times Square",
+    "rating": 4.5,
+    "review_count": 19,
+    "categories": [
+      "Hotels",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "120 W 41st St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/luma-hotel-times-square-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ousia": {
+    "name": "Ousia",
+    "rating": 4.5,
+    "review_count": 106,
+    "categories": [
+      "Mediterranean",
+      "Greek"
+    ],
+    "address": [
+      "629 W 57th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/ousia-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Pampano": {
+    "name": "Pampano",
+    "rating": 4.0,
+    "review_count": 506,
+    "categories": [
+      "Mexican",
+      "Latin American"
+    ],
+    "address": [
+      "209 E 49th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/pampano-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Paowalla": {
+    "name": "Paowalla",
+    "rating": 3.5,
+    "review_count": 207,
+    "categories": [
+      "Indian"
+    ],
+    "address": [
+      "195 Spring St",
+      "South Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/paowalla-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Park Avenue Autumn/Winter/Spring/Summer": {
+    "name": "Park Avenue Autumn/Winter/Spring/Summer",
+    "rating": 4.0,
+    "review_count": 604,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "360 Park Ave S",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/park-avenue-autumn-winter-spring-summer-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Pera Mediterranean Brasserie": {
+    "name": "Pera Mediterranean Brasserie",
+    "rating": 3.5,
+    "review_count": 359,
+    "categories": [
+      "Turkish",
+      "Mediterranean",
+      "Middle Eastern"
+    ],
+    "address": [
+      "303 Madison Ave",
+      "Murray Hill",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/pera-mediterranean-brasserie-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Pera Soho": {
+    "name": "Pera Soho",
+    "rating": 3.5,
+    "review_count": 354,
+    "categories": [
+      "Mediterranean",
+      "Turkish",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "54 Thompson St",
+      "South Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/pera-soho-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Periyali": {
+    "name": "Periyali",
+    "rating": 4.0,
+    "review_count": 208,
+    "categories": [
+      "Greek"
+    ],
+    "address": [
+      "35 W 20th St",
+      "Flatiron",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/periyali-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Perry St": {
+    "name": "Perry St",
+    "rating": 4.0,
+    "review_count": 836,
+    "categories": [
+      "American (New)",
+      "French"
+    ],
+    "address": [
+      "176 Perry St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/perry-st-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Pig and Khao": {
+    "name": "Pig and Khao",
+    "rating": 4.0,
+    "review_count": 1143,
+    "categories": [
+      "Filipino",
+      "Thai",
+      "Asian Fusion"
+    ],
+    "address": [
+      "68 Clinton St",
+      "Lower East Side",
+      "New York, NY 10002"
+    ],
+    "url": "https://www.yelp.com/biz/pig-and-khao-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Porsena": {
+    "name": "Porsena",
+    "rating": 3.5,
+    "review_count": 222,
+    "categories": [
+      "Italian",
+      "Wine Bars"
+    ],
+    "address": [
+      "21 E 7th St",
+      "East Village",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/porsena-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rafele Ristorante": {
+    "name": "Rafele Ristorante",
+    "rating": 4.5,
+    "review_count": 369,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "29 7th Ave S",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/rafele-ristorante-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Raymi": {
+    "name": "Raymi",
+    "rating": 4.0,
+    "review_count": 558,
+    "categories": [
+      "Peruvian",
+      "Tapas Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "43 W 24th St",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/raymi-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Red Cat": {
+    "name": "The Red Cat",
+    "rating": 4.0,
+    "review_count": 635,
+    "categories": [
+      "American (New)",
+      "Desserts",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "227 10th Ave",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/the-red-cat-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Red Rooster Harlem": {
+    "name": "Red Rooster Harlem",
+    "rating": 3.5,
+    "review_count": 2273,
+    "categories": [
+      "American (Traditional)"
+    ],
+    "address": [
+      "310 Lenox Ave",
+      "Harlem",
+      "New York, NY 10027"
+    ],
+    "url": "https://www.yelp.com/biz/red-rooster-harlem-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Remi": {
+    "name": "Remi",
+    "rating": 3.5,
+    "review_count": 246,
+    "categories": [
+      "Italian",
+      "Wine Bars",
+      "Gluten-Free"
+    ],
+    "address": [
+      "145 W 53rd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/remi-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Reserve Cut": {
+    "name": "Reserve Cut",
+    "rating": 4.0,
+    "review_count": 194,
+    "categories": [
+      "Steakhouses",
+      "Kosher",
+      "Asian Fusion"
+    ],
+    "address": [
+      "40 Broad St",
+      "Fl 2",
+      "Financial District",
+      "New York, NY 10004"
+    ],
+    "url": "https://www.yelp.com/biz/reserve-cut-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Nippon": {
+    "name": "Nippon",
+    "rating": 3.5,
+    "review_count": 142,
+    "categories": [
+      "Sushi Bars",
+      "Japanese"
+    ],
+    "address": [
+      "155 E 52nd St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/nippon-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rice & Gold": {
+    "name": "Rice & Gold",
+    "rating": 3.5,
+    "review_count": 96,
+    "categories": [
+      "Chinese",
+      "Asian Fusion",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "50 Bowery",
+      "Chinatown",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/rice-and-gold-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ristorante Morini": {
+    "name": "Ristorante Morini",
+    "rating": 4.0,
+    "review_count": 205,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "1167 Madison Ave",
+      "Upper East Side",
+      "New York, NY 10028"
+    ],
+    "url": "https://www.yelp.com/biz/ristorante-morini-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Riverpark": {
+    "name": "Riverpark",
+    "rating": 4.0,
+    "review_count": 641,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "450 E 29th St",
+      "Stuyvesant Town",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/riverpark-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rock Center Cafe": {
+    "name": "Rock Center Cafe",
+    "rating": 3.0,
+    "review_count": 375,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "Rockefeller Ctr",
+      "Lower Level",
+      "Midtown West",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/rock-center-cafe-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Root & Bone": {
+    "name": "Root & Bone",
+    "rating": 4.0,
+    "review_count": 1220,
+    "categories": [
+      "Southern",
+      "Comfort Food",
+      "Desserts"
+    ],
+    "address": [
+      "200 E 3rd St",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/root-and-bone-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rossini's": {
+    "name": "Rossini's",
+    "rating": 4.0,
+    "review_count": 129,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "108 E 38th St",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/rossinis-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rotisserie Georgette": {
+    "name": "Rotisserie Georgette",
+    "rating": 4.0,
+    "review_count": 160,
+    "categories": [
+      "French",
+      "Bars",
+      "Gluten-Free"
+    ],
+    "address": [
+      "14 E 60th St",
+      "Upper East Side",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/rotisserie-georgette-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Rowland's Bar & Grill": {
+    "name": "Rowland's Bar & Grill",
+    "rating": 3.5,
+    "review_count": 46,
+    "categories": [
+      "Bars",
+      "American (Traditional)"
+    ],
+    "address": [
+      "Macy's Herald Sq",
+      "151 W 34th St, Lower Level",
+      "Midtown West",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/rowlands-bar-and-grill-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Russian Tea Room": {
+    "name": "The Russian Tea Room",
+    "rating": 3.0,
+    "review_count": 787,
+    "categories": [
+      "Tea Rooms",
+      "Russian",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "150 W 57th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/the-russian-tea-room-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Ruth's Chris Steak House": {
+    "name": "Ruth's Chris Steak House",
+    "rating": 4.0,
+    "review_count": 715,
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "American (Traditional)"
+    ],
+    "address": [
+      "148 W 51st St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/ruths-chris-steak-house-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "San Carlo Osteria Piemonte": {
+    "name": "San Carlo Osteria Piemonte",
+    "rating": 4.5,
+    "review_count": 84,
+    "categories": [
+      "Italian",
+      "Wine Bars",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "90 Thompson St",
+      "South Village",
+      "New York City, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/san-carlo-osteria-piemonte-new-york-city?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sant Ambroeus West Village": {
+    "name": "Sant Ambroeus West Village",
+    "rating": 3.5,
+    "review_count": 206,
+    "categories": [
+      "Italian",
+      "Desserts",
+      "Coffee & Tea"
+    ],
+    "address": [
+      "259 W 4th St",
+      "West Village",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/sant-ambroeus-west-village-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sant Ambroeus": {
+    "name": "Sant Ambroeus",
+    "rating": 3.5,
+    "review_count": 85,
+    "categories": [
+      "Italian",
+      "Cocktail Bars",
+      "Salad"
+    ],
+    "address": [
+      "265 Lafayette St",
+      "SoHo",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/sant-ambroeus-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sarabeth's": {
+    "name": "Sarabeth's",
+    "rating": 3.0,
+    "review_count": 468,
+    "categories": [
+      "Breakfast & Brunch",
+      "American (Traditional)"
+    ],
+    "address": [
+      "381 Park Ave S",
+      "Flatiron",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/sarabeths-new-york-5?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sarabeth's East": {
+    "name": "Sarabeth's East",
+    "rating": 3.5,
+    "review_count": 561,
+    "categories": [
+      "American (Traditional)",
+      "Breakfast & Brunch",
+      "Desserts"
+    ],
+    "address": [
+      "1295 Madison Ave",
+      "Upper East Side",
+      "New York, NY 10128"
+    ],
+    "url": "https://www.yelp.com/biz/sarabeths-east-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sarabeth's Tribeca": {
+    "name": "Sarabeth's Tribeca",
+    "rating": 3.5,
+    "review_count": 567,
+    "categories": [
+      "Breakfast & Brunch",
+      "American (Traditional)"
+    ],
+    "address": [
+      "339 Greenwich St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/sarabeths-tribeca-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sarabeth's West": {
+    "name": "Sarabeth's West",
+    "rating": 3.5,
+    "review_count": 801,
+    "categories": [
+      "Breakfast & Brunch",
+      "American (Traditional)"
+    ],
+    "address": [
+      "423 Amsterdam Ave",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/sarabeths-west-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Scaletta Ristorante": {
+    "name": "Scaletta Ristorante",
+    "rating": 3.5,
+    "review_count": 65,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "50 W 77th St",
+      "Upper West Side",
+      "New York, NY 10024"
+    ],
+    "url": "https://www.yelp.com/biz/scaletta-ristorante-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Schilling": {
+    "name": "Schilling",
+    "rating": 4.5,
+    "review_count": 90,
+    "categories": [
+      "Austrian",
+      "Bars",
+      "American (New)"
+    ],
+    "address": [
+      "109 Washington St",
+      "Financial District",
+      "New York, NY 10006"
+    ],
+    "url": "https://www.yelp.com/biz/schilling-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sessanta Ristorante": {
+    "name": "Sessanta Ristorante",
+    "rating": 3.5,
+    "review_count": 89,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "60 Thompson St",
+      "South Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/sessanta-ristorante-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Shun Lee Palace": {
+    "name": "Shun Lee Palace",
+    "rating": 3.0,
+    "review_count": 237,
+    "categories": [
+      "Chinese"
+    ],
+    "address": [
+      "155 E 55th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/shun-lee-palace-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Shun Lee West": {
+    "name": "Shun Lee West",
+    "rating": 2.5,
+    "review_count": 373,
+    "categories": [
+      "Chinese"
+    ],
+    "address": [
+      "43 W 65th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/shun-lee-west-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Smith & Wollensky": {
+    "name": "Smith & Wollensky",
+    "rating": 3.5,
+    "review_count": 1118,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "797 3rd Ave",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/smith-and-wollensky-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Smoke Jazz & Supper Club": {
+    "name": "Smoke Jazz & Supper Club",
+    "rating": 4.0,
+    "review_count": 302,
+    "categories": [
+      "Jazz & Blues",
+      "American (New)"
+    ],
+    "address": [
+      "2751 Broadway",
+      "Manhattan Valley",
+      "New York, NY 10025"
+    ],
+    "url": "https://www.yelp.com/biz/smoke-jazz-and-supper-club-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Socarrat Paella Bar - Chelsea": {
+    "name": "Socarrat Paella Bar - Chelsea",
+    "rating": 3.5,
+    "review_count": 1010,
+    "categories": [
+      "Spanish",
+      "Tapas Bars",
+      "Tapas/Small Plates"
+    ],
+    "address": [
+      "259 W 19th St",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/socarrat-paella-bar-chelsea-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Socarrat Paella Bar - Midtown East": {
+    "name": "Socarrat Paella Bar - Midtown East",
+    "rating": 3.5,
+    "review_count": 359,
+    "categories": [
+      "Spanish",
+      "Tapas/Small Plates",
+      "Wine Bars"
+    ],
+    "address": [
+      "953 2nd Ave",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/socarrat-paella-bar-midtown-east-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Socarrat Paella Bar - Nolita": {
+    "name": "Socarrat Paella Bar - Nolita",
+    "rating": 4.0,
+    "review_count": 378,
+    "categories": [
+      "Spanish",
+      "Tapas Bars",
+      "Tapas/Small Plates"
+    ],
+    "address": [
+      "284 Mulberry St",
+      "Nolita",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/socarrat-paella-bar-nolita-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Society Cafe": {
+    "name": "Society Cafe",
+    "rating": 4.0,
+    "review_count": 42,
+    "categories": [
+      "American (New)",
+      "Cafes",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "52 W 13th St",
+      "Greenwich Village",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/society-cafe-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sofrito New York": {
+    "name": "Sofrito New York",
+    "rating": 2.5,
+    "review_count": 342,
+    "categories": [
+      "Latin American",
+      "Spanish",
+      "American (New)"
+    ],
+    "address": [
+      "679 Riverside Dr",
+      "New York, NY 10031"
+    ],
+    "url": "https://www.yelp.com/biz/sofrito-new-york-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "STATE Grill and Bar": {
+    "name": "STATE Grill and Bar",
+    "rating": 4.0,
+    "review_count": 94,
+    "categories": [
+      "Bars",
+      "American (New)"
+    ],
+    "address": [
+      "Empire State Building",
+      "350 5th Ave",
+      "Midtown West",
+      "New York, NY 10118"
+    ],
+    "url": "https://www.yelp.com/biz/state-grill-and-bar-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Stella 34 Trattoria": {
+    "name": "Stella 34 Trattoria",
+    "rating": 3.5,
+    "review_count": 520,
+    "categories": [
+      "Italian",
+      "Pizza",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "Macy's 6th Floor - 35th Broadway Entrance",
+      "151 W 34th St",
+      "Midtown West",
+      "New York, NY 10001"
+    ],
+    "url": "https://www.yelp.com/biz/stella-34-trattoria-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "STK Midtown": {
+    "name": "STK Midtown",
+    "rating": 3.5,
+    "review_count": 589,
+    "categories": [
+      "Steakhouses",
+      "American (New)",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "1114 Avenue of the Americas",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/stk-midtown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "STK Rooftop": {
+    "name": "STK Rooftop",
+    "rating": 2.5,
+    "review_count": 83,
+    "categories": [
+      "Steakhouses",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "26 Little W 12th St",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/stk-rooftop-new-york-11?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Strip House": {
+    "name": "Strip House",
+    "rating": 4.0,
+    "review_count": 416,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "15 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/strip-house-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Strip House Speakeasy": {
+    "name": "Strip House Speakeasy",
+    "rating": 3.5,
+    "review_count": 33,
+    "categories": [
+      "Steakhouses"
+    ],
+    "address": [
+      "11 E 12th St",
+      "Union Square",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/strip-house-speakeasy-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Sutton Inn": {
+    "name": "Sutton Inn",
+    "rating": 4.0,
+    "review_count": 88,
+    "categories": [
+      "American (New)",
+      "Desserts"
+    ],
+    "address": [
+      "347 E 54th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/sutton-inn-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Satsuki": {
+    "name": "Satsuki",
+    "rating": 4.5,
+    "review_count": 18,
+    "categories": [
+      "Japanese",
+      "Sushi Bars"
+    ],
+    "address": [
+      "114 W 47th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/satsuki-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "TBar": {
+    "name": "TBar",
+    "rating": 3.5,
+    "review_count": 130,
+    "categories": [
+      "Steakhouses",
+      "American (New)",
+      "Seafood"
+    ],
+    "address": [
+      "1278 3rd Ave",
+      "Upper East Side",
+      "New York, NY 10021"
+    ],
+    "url": "https://www.yelp.com/biz/tbar-steak-and-lounge-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Taboon": {
+    "name": "Taboon",
+    "rating": 4.0,
+    "review_count": 531,
+    "categories": [
+      "Middle Eastern",
+      "Mediterranean"
+    ],
+    "address": [
+      "773 10th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/taboon-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tamarind": {
+    "name": "Tamarind",
+    "rating": 4.0,
+    "review_count": 687,
+    "categories": [
+      "Indian"
+    ],
+    "address": [
+      "99 Hudson St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/tamarind-new-york-4?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "TAO Downtown": {
+    "name": "TAO Downtown",
+    "rating": 3.5,
+    "review_count": 855,
+    "categories": [
+      "Lounges"
+    ],
+    "address": [
+      "92 9th Ave",
+      "Chelsea",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/tao-downtown-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "TAO Uptown": {
+    "name": "TAO Uptown",
+    "rating": 3.5,
+    "review_count": 2092,
+    "categories": [
+      "Asian Fusion"
+    ],
+    "address": [
+      "42 E 58th St",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/tao-uptown-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tavern62 By David Burke": {
+    "name": "Tavern62 By David Burke",
+    "rating": 4.0,
+    "review_count": 67,
+    "categories": [
+      "Steakhouses",
+      "American (Traditional)",
+      "Seafood"
+    ],
+    "address": [
+      "135 E 62nd St",
+      "Upper East Side",
+      "New York, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/tavern62-by-david-burke-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tavern on the Green": {
+    "name": "Tavern on the Green",
+    "rating": 3.5,
+    "review_count": 916,
+    "categories": [
+      "American (New)",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "67 Central Park W",
+      "Central Park",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/tavern-on-the-green-new-york-7?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Temple Court": {
+    "name": "Temple Court",
+    "rating": 3.5,
+    "review_count": 102,
+    "categories": [
+      "American (New)",
+      "Bars",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "5 Beekman St",
+      "Financial District",
+      "New York, NY 10038"
+    ],
+    "url": "https://www.yelp.com/biz/temple-court-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tender": {
+    "name": "Tender",
+    "rating": 3.5,
+    "review_count": 229,
+    "categories": [
+      "Sushi Bars",
+      "Steakhouses",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "130 W 47th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/tender-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Thalassa Restaurant": {
+    "name": "Thalassa Restaurant",
+    "rating": 4.0,
+    "review_count": 318,
+    "categories": [
+      "Seafood",
+      "Greek",
+      "Mediterranean"
+    ],
+    "address": [
+      "179 Franklin St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/thalassa-restaurant-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Thalia": {
+    "name": "Thalia",
+    "rating": 3.5,
+    "review_count": 743,
+    "categories": [
+      "American (New)",
+      "Seafood",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "828 8th Ave",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/thalia-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Capital Grille": {
+    "name": "The Capital Grille",
+    "rating": 4.0,
+    "review_count": 637,
+    "categories": [
+      "Steakhouses",
+      "Seafood",
+      "Wine Bars"
+    ],
+    "address": [
+      "120 W 51st St",
+      "Midtown West",
+      "New York, NY 10020"
+    ],
+    "url": "https://www.yelp.com/biz/the-capital-grille-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Cecil Steakhouse": {
+    "name": "The Cecil Steakhouse",
+    "rating": 4.0,
+    "review_count": 12,
+    "categories": [
+      "Steakhouses",
+      "Bars",
+      "American (Traditional)"
+    ],
+    "address": [
+      "210 W 118th St",
+      "Harlem",
+      "New York, NY 10026"
+    ],
+    "url": "https://www.yelp.com/biz/the-cecil-steakhouse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Clocktower": {
+    "name": "The Clocktower",
+    "rating": 4.0,
+    "review_count": 243,
+    "categories": [
+      "British"
+    ],
+    "address": [
+      "5 Madison Ave",
+      "Flatiron",
+      "New York, NY 10010"
+    ],
+    "url": "https://www.yelp.com/biz/the-clocktower-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Robert": {
+    "name": "Robert",
+    "rating": 4.0,
+    "review_count": 738,
+    "categories": [
+      "American (Traditional)",
+      "Breakfast & Brunch",
+      "Wine Bars"
+    ],
+    "address": [
+      "2 Columbus Cir",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/robert-new-york-25?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Dutch": {
+    "name": "The Dutch",
+    "rating": 3.5,
+    "review_count": 1006,
+    "categories": [
+      "American (Traditional)"
+    ],
+    "address": [
+      "131 Sullivan St",
+      "South Village",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/the-dutch-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The House": {
+    "name": "The House",
+    "rating": 3.5,
+    "review_count": 337,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "121 E 17th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/the-house-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Lambs Club": {
+    "name": "The Lambs Club",
+    "rating": 3.0,
+    "review_count": 469,
+    "categories": [
+      "American (New)",
+      "Lounges"
+    ],
+    "address": [
+      "132 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/the-lambs-club-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Leopard at des Artistes": {
+    "name": "The Leopard at des Artistes",
+    "rating": 4.0,
+    "review_count": 181,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "1 W 67th St",
+      "Upper West Side",
+      "New York, NY 10023"
+    ],
+    "url": "https://www.yelp.com/biz/the-leopard-at-des-artistes-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Library at The Public": {
+    "name": "The Library at The Public",
+    "rating": 3.5,
+    "review_count": 144,
+    "categories": [
+      "American (New)",
+      "Lounges",
+      "Cocktail Bars"
+    ],
+    "address": [
+      "425 Lafayette St",
+      "NoHo",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/the-library-at-the-public-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Morgan Dining Room": {
+    "name": "The Morgan Dining Room",
+    "rating": 4.0,
+    "review_count": 15,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "225 Madison Ave",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/the-morgan-dining-room-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The National Bar and Dining Rooms": {
+    "name": "The National Bar and Dining Rooms",
+    "rating": 3.0,
+    "review_count": 559,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Brasseries"
+    ],
+    "address": [
+      "557 Lexington Ave",
+      "Midtown East",
+      "New York, NY 10022"
+    ],
+    "url": "https://www.yelp.com/biz/the-national-bar-and-dining-rooms-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Palm Tribeca": {
+    "name": "The Palm Tribeca",
+    "rating": 3.5,
+    "review_count": 229,
+    "categories": [
+      "Steakhouses",
+      "Seafood"
+    ],
+    "address": [
+      "206 West St",
+      "TriBeCa",
+      "New York, NY 10282"
+    ],
+    "url": "https://www.yelp.com/biz/the-palm-tribeca-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Sea Grill": {
+    "name": "The Sea Grill",
+    "rating": 4.0,
+    "review_count": 278,
+    "categories": [
+      "Seafood",
+      "American (New)",
+      "Sushi Bars"
+    ],
+    "address": [
+      "19 W 49th St",
+      "Midtown West",
+      "New York, NY 10020"
+    ],
+    "url": "https://www.yelp.com/biz/the-sea-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Shakespeare": {
+    "name": "The Shakespeare",
+    "rating": 4.0,
+    "review_count": 289,
+    "categories": [
+      "Pubs",
+      "British"
+    ],
+    "address": [
+      "24 E 39th St",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/the-shakespeare-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Stanton Social": {
+    "name": "The Stanton Social",
+    "rating": 4.0,
+    "review_count": 2635,
+    "categories": [
+      "Lounges"
+    ],
+    "address": [
+      "99 Stanton St",
+      "Lower East Side",
+      "New York, NY 10002"
+    ],
+    "url": "https://www.yelp.com/biz/the-stanton-social-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Dutch Freds": {
+    "name": "Dutch Freds",
+    "rating": 4.5,
+    "review_count": 630,
+    "categories": [
+      "Cocktail Bars",
+      "Pubs",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "307 W 47th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/dutch-freds-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "View": {
+    "name": "View",
+    "rating": 3.5,
+    "review_count": 176,
+    "categories": [
+      "American (New)",
+      "Desserts"
+    ],
+    "address": [
+      "3 Consuelo Place",
+      "Oakdale, NY 11769"
+    ],
+    "url": "https://www.yelp.com/biz/view-oakdale?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Wayfarer": {
+    "name": "The Wayfarer",
+    "rating": 3.5,
+    "review_count": 275,
+    "categories": [
+      "American (New)"
+    ],
+    "address": [
+      "101 W 57th St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/the-wayfarer-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "The Writing Room": {
+    "name": "The Writing Room",
+    "rating": 3.5,
+    "review_count": 361,
+    "categories": [
+      "American (New)",
+      "Bars"
+    ],
+    "address": [
+      "1703 2nd Ave",
+      "Upper East Side",
+      "New York, NY 10128"
+    ],
+    "url": "https://www.yelp.com/biz/the-writing-room-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tiny's & the Bar Upstairs": {
+    "name": "Tiny's & the Bar Upstairs",
+    "rating": 4.0,
+    "review_count": 436,
+    "categories": [
+      "Bars",
+      "American (New)"
+    ],
+    "address": [
+      "135 W Broadway",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/tinys-and-the-bar-upstairs-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Toloache 50": {
+    "name": "Toloache 50",
+    "rating": 4.0,
+    "review_count": 1523,
+    "categories": [
+      "Mexican"
+    ],
+    "address": [
+      "251 W 50th St",
+      "Midtown West",
+      "New York, NY 10012"
+    ],
+    "url": "https://www.yelp.com/biz/toloache-50-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tommy Bahama Restaurant | Bar | Store - New York": {
+    "name": "Tommy Bahama Restaurant | Bar | Store - New York",
+    "rating": 4.0,
+    "review_count": 480,
+    "categories": [
+      "American (New)",
+      "Hawaiian",
+      "Seafood"
+    ],
+    "address": [
+      "551 5th Ave",
+      "Midtown East",
+      "New York, NY 10176"
+    ],
+    "url": "https://www.yelp.com/biz/tommy-bahama-restaurant-bar-store-new-york-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Trattoria Il Mulino": {
+    "name": "Trattoria Il Mulino",
+    "rating": 3.5,
+    "review_count": 165,
+    "categories": [
+      "Italian",
+      "Seafood"
+    ],
+    "address": [
+      "36 E 20th St",
+      "Flatiron",
+      "New York, NY 10003"
+    ],
+    "url": "https://www.yelp.com/biz/trattoria-il-mulino-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Trattoria Zero Otto Nove": {
+    "name": "Trattoria Zero Otto Nove",
+    "rating": 4.0,
+    "review_count": 581,
+    "categories": [
+      "Italian",
+      "Pizza"
+    ],
+    "address": [
+      "2357 Arthur Ave",
+      "Belmont",
+      "Bronx, NY 10458"
+    ],
+    "url": "https://www.yelp.com/biz/trattoria-zero-otto-nove-bronx?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tribeca Grill": {
+    "name": "Tribeca Grill",
+    "rating": 3.5,
+    "review_count": 538,
+    "categories": [
+      "American (New)",
+      "American (Traditional)",
+      "Wine Bars"
+    ],
+    "address": [
+      "375 Greenwich St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/tribeca-grill-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Triomphe": {
+    "name": "Triomphe",
+    "rating": 3.5,
+    "review_count": 120,
+    "categories": [
+      "French",
+      "American (New)"
+    ],
+    "address": [
+      "49 W 44th St",
+      "Midtown West",
+      "New York, NY 10036"
+    ],
+    "url": "https://www.yelp.com/biz/triomphe-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tuome": {
+    "name": "Tuome",
+    "rating": 4.5,
+    "review_count": 302,
+    "categories": [
+      "American (New)",
+      "Chinese"
+    ],
+    "address": [
+      "536 E 5th St",
+      "East Village",
+      "New York, NY 10009"
+    ],
+    "url": "https://www.yelp.com/biz/tuome-new-york-2?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Tutto il Giorno": {
+    "name": "Tutto il Giorno",
+    "rating": 4.0,
+    "review_count": 61,
+    "categories": [
+      "Cocktail Bars",
+      "Italian"
+    ],
+    "address": [
+      "114 Franklin St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/tutto-il-giorno-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Untitled at The Whitney": {
+    "name": "Untitled at The Whitney",
+    "rating": 4.0,
+    "review_count": 213,
+    "categories": [
+      "American (New)",
+      "Breakfast & Brunch",
+      "Wine Bars"
+    ],
+    "address": [
+      "99 Gansevoort St",
+      "Meatpacking District",
+      "New York, NY 10014"
+    ],
+    "url": "https://www.yelp.com/biz/untitled-at-the-whitney-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Vandal": {
+    "name": "Vandal",
+    "rating": 3.5,
+    "review_count": 878,
+    "categories": [
+      "Lounges"
+    ],
+    "address": [
+      "199 Bowery",
+      "Lower East Side",
+      "New York, NY 10002"
+    ],
+    "url": "https://www.yelp.com/biz/vandal-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Vaucluse": {
+    "name": "Vaucluse",
+    "rating": 4.0,
+    "review_count": 160,
+    "categories": [
+      "French",
+      "Breakfast & Brunch",
+      "Venues & Event Spaces"
+    ],
+    "address": [
+      "100 E 63rd St",
+      "Upper East Side",
+      "New York, NY 10065"
+    ],
+    "url": "https://www.yelp.com/biz/vaucluse-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "ViceVersa": {
+    "name": "ViceVersa",
+    "rating": 4.0,
+    "review_count": 216,
+    "categories": [
+      "Italian"
+    ],
+    "address": [
+      "325 W 51st St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/viceversa-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Victor's Cafe": {
+    "name": "Victor's Cafe",
+    "rating": 4.0,
+    "review_count": 1140,
+    "categories": [
+      "Cuban",
+      "Tapas Bars",
+      "Lounges"
+    ],
+    "address": [
+      "236 W 52nd St",
+      "Midtown West",
+      "New York, NY 10019"
+    ],
+    "url": "https://www.yelp.com/biz/victors-cafe-new-york-6?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Vinateria": {
+    "name": "Vinateria",
+    "rating": 4.0,
+    "review_count": 322,
+    "categories": [
+      "Italian",
+      "Spanish",
+      "Seafood"
+    ],
+    "address": [
+      "2211 Frederick Douglass Blvd",
+      "Harlem",
+      "New York, NY 10026"
+    ],
+    "url": "https://www.yelp.com/biz/vinateria-new-york-3?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Wollensky Grill": {
+    "name": "Wollensky Grill",
+    "rating": 3.5,
+    "review_count": 84,
+    "categories": [
+      "American (New)",
+      "Seafood",
+      "Steakhouses"
+    ],
+    "address": [
+      "210 E 49th St",
+      "Midtown East",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/wollensky-grill-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Yellow Magnolia Café": {
+    "name": "Yellow Magnolia Café",
+    "rating": 4.0,
+    "review_count": 20,
+    "categories": [
+      "Cafes"
+    ],
+    "address": [
+      "990 Washington Ave",
+      "Prospect Heights",
+      "Brooklyn, NY 11225"
+    ],
+    "url": "https://www.yelp.com/biz/yellow-magnolia-caf%C3%A9-brooklyn?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Yves": {
+    "name": "Yves",
+    "rating": 4.0,
+    "review_count": 26,
+    "categories": [
+      "Cocktail Bars",
+      "American (New)",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "385 Greenwich St",
+      "TriBeCa",
+      "New York, NY 10013"
+    ],
+    "url": "https://www.yelp.com/biz/yves-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Zengo": {
+    "name": "Zengo",
+    "rating": 3.5,
+    "review_count": 767,
+    "categories": [
+      "Latin American",
+      "Asian Fusion"
+    ],
+    "address": [
+      "622 3rd Ave",
+      "Murray Hill",
+      "New York, NY 10017"
+    ],
+    "url": "https://www.yelp.com/biz/zengo-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Zio Ristorante": {
+    "name": "Zio Ristorante",
+    "rating": 4.0,
+    "review_count": 240,
+    "categories": [
+      "Italian",
+      "Mediterranean"
+    ],
+    "address": [
+      "17 W 19th St",
+      "Flatiron",
+      "New York, NY 10011"
+    ],
+    "url": "https://www.yelp.com/biz/zio-ristorante-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  },
+  "Zuma - New York": {
+    "name": "Zuma - New York",
+    "rating": 3.5,
+    "review_count": 440,
+    "categories": [
+      "Sushi Bars",
+      "Japanese",
+      "Breakfast & Brunch"
+    ],
+    "address": [
+      "261 Madison Ave",
+      "Murray Hill",
+      "New York, NY 10016"
+    ],
+    "url": "https://www.yelp.com/biz/zuma-new-york-new-york?adjust_creative=bd0yHYKc-8aa3VblSUCoIA&utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=bd0yHYKc-8aa3VblSUCoIA"
+  }
+}
