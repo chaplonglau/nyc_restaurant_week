@@ -5,3 +5,5 @@ We’re going to scrape restaurant names off the site, feed it to Yelp, and find
 Full walk-through, code explanation, and food pictures here.
 
 [https://medium.com/@chaplonglau/its-restaurant-week-in-new-york-city-6a76b7539fde]
+
+![alt text](https://github.com/chaplonglau/nyc_restaurant_week/blob/master/rest.png "demo")
